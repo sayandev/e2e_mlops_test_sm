@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sayan.maity/Downloads/Sayan/IK/MLOps/e2e_mlops_test_sm/mlruns/0/a573db12a7c246e69aa6466f77730c81/artifacts
+end_time: 1730595541758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a573db12a7c246e69aa6466f77730c81
+run_name: luminous-robin-480
+run_uuid: a573db12a7c246e69aa6466f77730c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730595539487
+status: 4
+tags: []
+user_id: sayan.maity

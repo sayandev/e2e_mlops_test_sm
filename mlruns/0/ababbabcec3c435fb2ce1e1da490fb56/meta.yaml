@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sayan.maity/Downloads/Sayan/IK/MLOps/e2e_mlops_test_sm/mlruns/0/ababbabcec3c435fb2ce1e1da490fb56/artifacts
+end_time: 1730595441175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ababbabcec3c435fb2ce1e1da490fb56
+run_name: useful-sheep-16
+run_uuid: ababbabcec3c435fb2ce1e1da490fb56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730595438553
+status: 4
+tags: []
+user_id: sayan.maity
